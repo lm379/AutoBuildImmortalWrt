@@ -50,3 +50,7 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-appfilter luci-i18n-appfilter-zh-cn"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES webdav2 luci-app-unishare"
 # Zerotier
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES zerotier luci-app-zerotier luci-i18n-zerotier-zh-cn"
+# 负载均衡
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES mwan3 luci-app-mwan3"
+# ddns-go
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES ddns-go luci-app-ddns-go"

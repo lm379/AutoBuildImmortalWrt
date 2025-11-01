@@ -51,6 +51,6 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-appfilter luci-i18n-appfilter-zh-cn"
 # Zerotier
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES zerotier luci-app-zerotier luci-i18n-zerotier-zh-cn"
 # 负载均衡
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES mwan3 luci-app-mwan3"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES mwan3 luci-app-mwan3 luci-i18n-mwan3-zh-cn"
 # ddns-go
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES ddns-go luci-app-ddns-go"
